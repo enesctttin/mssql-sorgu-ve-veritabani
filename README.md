@@ -10,6 +10,8 @@ Geliştirme Proje Sınıfı'nın dördüncü aşaması kapsamında hazırlandı.
 ## northwind-sorgu-cozumleri.sql
 Her sorunun metni yorum satırı olarak üstünde, altında çözümü yer alıyor.
 
+Bu sorguların LINQ karşılıkları northwind-linq-api reposunda.
+
 | Konu | Konu |
 |---|---|
 | SELECT sorguları | Aggregate fonksiyonlar (COUNT, SUM, AVG, MIN, MAX) |
