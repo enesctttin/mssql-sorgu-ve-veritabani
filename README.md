@@ -4,13 +4,14 @@
 çözülmüş SQL sorguları ve sıfırdan tasarlanmış, normalizasyon kurallarına uygun
 bir hastane kayıt veritabanı şeması.
 
+Bu sorguların LINQ karşılıkları northwind-linq-api reposunda.
+
 İTÜ Bilgi İşlem Daire Başkanlığı — Yazılım Geliştirme Grubu (YGG) Yazılım
 Geliştirme Proje Sınıfı'nın dördüncü aşaması kapsamında hazırlandı.
 
 ## northwind-sorgu-cozumleri.sql
 Her sorunun metni yorum satırı olarak üstünde, altında çözümü yer alıyor.
 
-Bu sorguların LINQ karşılıkları northwind-linq-api reposunda.
 
 | Konu | Konu |
 |---|---|
